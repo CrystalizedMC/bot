@@ -1,3 +1,4 @@
+.env
 Configurations/config.json
 Configurations/config.js
 Configurations/auth.js
