@@ -1,8 +1,0 @@
-.env
-Configurations/config.json
-Configurations/config.js
-Configurations/auth.js
-node_modules/
-.idea/
-package-cache*.json
-Temp/*.json
